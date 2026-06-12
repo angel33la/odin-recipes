@@ -26,6 +26,15 @@ h2, h3 {
   background-color: transparent;
 }
 
+p {
+  background-color: transparent;
+}
+
+hr {
+  background-color: transparent;
+  border-color: #111;
+}
+
 ul, ol {
   list-style: none;
   text-decoration: none;
@@ -64,4 +73,12 @@ img {
   background-color: transparent;
   display: block;
   margin: 0 auto;
+}
+
+header {
+  background-color: transparent;
+}
+
+li {
+  background-color: transparent;
 }
