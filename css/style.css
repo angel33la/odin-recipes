@@ -28,7 +28,7 @@ nav ul{
 nav a {
   text-decoration: none;
   color: #111;
-  transition: all 0.3 ease 0s;
+  transition: all 0.3s ease 0s;
 }
 
 nav a:hover {
@@ -38,4 +38,3 @@ img {
   width: 18.75rem;
   height: 18.75rem;
 }
-
