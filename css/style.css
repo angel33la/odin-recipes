@@ -6,7 +6,7 @@
   text-align: center;
 }
 h1 {
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Comforta', cursive;
   font-size: 3.25rem;
 }
 h2, h3 {
@@ -28,7 +28,6 @@ nav ul{
 nav a {
   text-decoration: none;
   color: #111;
-  transition: all 0.3s ease 0s;
 }
 
 nav a:hover {
